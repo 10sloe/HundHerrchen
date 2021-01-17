@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Herrchen
+comment1.params=name_
+comment1.target=Herrchen(java.lang.String)
+comment2.params=
+comment2.target=void\ alleHundeBellen()
+comment3.params=hund
+comment3.target=void\ setHund1(Hund)
+comment4.params=hund
+comment4.target=void\ setHund2(Hund)
+numComments=5

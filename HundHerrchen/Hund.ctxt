@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hund
+comment1.params=name_
+comment1.target=Hund(java.lang.String)
+comment2.params=
+comment2.target=void\ bellen()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4
